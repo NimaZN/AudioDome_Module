@@ -12,4 +12,4 @@ All the classes to build and send commands to the SpatialAudioCreator software a
 
   # Sample taks and data
   A simplified version of the elevation discrimination task with some data is included in 'Sample Task' folder.
-  This task was part of the AudioDome assessment project and is described in 'Focality of sound source placement by higher (9th) order ambisonics and perceptual effects of spectral reproduction errors' in Experiment 3.
+  This task was part of the AudioDome assessment project and is described in [Focality of sound source placement by higher (9th) order ambisonics and perceptual effects of spectral reproduction errors](https://www.biorxiv.org/content/10.1101/2024.08.07.606870v3.abstract) in Experiment 3.
