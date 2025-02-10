@@ -2,10 +2,10 @@ This repository contains the lated version of the AudioDome Module, tutorial con
 
 # The Module
 All the classes to build and send commands to the SpatialAudioCreator software are included in a single python module file that is accompanied with a communication parameter setup file:<br> 
-  -AudioDome_Module.py<br> 
-      module classes<br> 
-  -AudioDome_Communication_Setup.py<br> 
-      communication variables<br> 
+&emsp;-AudioDome_Module.py<br> 
+&emsp;&emsp;module classes<br> 
+&emsp;-AudioDome_Communication_Setup.py<br> 
+&emsp;&emsp;communication variables<br> 
 
   # Tutorial content
   You can find the slides and recordings of the workshop presented at 'Brain and Mind Methods Lunch' in the Tutorial folder.
