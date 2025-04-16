@@ -1,3 +1,17 @@
+"""
+The AudioDome Module
+================
+Description:    This module provides classes and functions for rendering spatial audio stimuli using the AudioDome system in Python.
+Author info:    Nima Zargarnezhad (please contact nzargarn@uwo.ca for any queries)
+
+License:        MIT / CC BY 4.0
+Citation:       If you use this module in your work, please cite the following paper:
+
+                    Nima Zargarnezhad, Bruno Mesquita, Ewan A Macpherson, Ingrid Johnsrude;
+                    Focality of sound source placement by higher (ninth) order ambisonics and perceptual effects of spectral reproduction errors.
+                    J. Acoust. Soc. Am. 1 April 2025; 157 (4): 2802–2818. https://doi.org/10.1121/10.0036226
+"""
+
 # Setting up the client
 from osc4py3.as_eventloop import *
 from osc4py3 import oscbuildparse
